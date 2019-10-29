@@ -1,0 +1,19 @@
+
+
+const actionTypes = {
+
+    // HOME
+    FETCH_HOME_BANNER: 'FETCH_HOME_BANNER', // 请求首页轮播
+    FETCH_HOME_LIST: 'FETCH_HOME_LIST', // 请求首页列表
+    FETCH_HOME_LIST_FAILURE: 'FETCH_HOME_LIST_FAILURE', // 请求首页列表失败
+    FETCH_HOME_LIST_MORE: 'FETCH_HOME_LIST_MORE', // 请求首页列表上拉加载更多
+    FETCH_OFTEN_USED_WEBSITES: 'FETCH_OFTEN_USED_WEBSITES', // 请求常用网站数据
+    FETCH_HOME_ADD_COLLECT: 'FETCH_HOME_ADD_COLLECT', // 请求收藏首页文章
+    FETCH_HOME_CANCEL_COLLECT: 'FETCH_HOME_CANCEL_COLLECT', // 取消收藏首页文章
+
+    //Login
+    SAVE_LOGIN_MESSAGE:'SAVE_LOGIN_MESSAGE'
+
+}
+
+export default actionTypes;
