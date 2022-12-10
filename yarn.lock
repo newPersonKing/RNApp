@@ -5346,9 +5346,9 @@ punycode@^2.1.0, punycode@^2.1.1:
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^6.4.2:
   version "6.8.3"
@@ -5467,6 +5467,11 @@ react-native-swiper@^1.6.0-nightly.5:
   integrity sha512-aZk6M7WsFdxlfHfS6OKb7gsaS3q7Z4Oqm8iTyJO7duE28EUK9kzfA2Cp5S6FdZkGXoWCXoUFGlzaO0lnhW/jtw==
   dependencies:
     prop-types "^15.5.10"
+
+react-native-syan-image-picker@^0.3.8:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/react-native-syan-image-picker/-/react-native-syan-image-picker-0.3.9.tgz#f13dfebf174cf70e77f6dd07c154a68e7f6de1a5"
+  integrity sha512-NPM14td6047vXWfvdxPUNat2CqsRjnwY4PyFKf2SsAYI4DmpX0PqBJ3YXFeBQfSFuqGTK4kL6fScCoiUeeJIlw==
 
 react-native-tab-view@^2.9.0:
   version "2.10.0"
